@@ -1,2 +1,2 @@
 # C_Program
-this is my C program responsity
+this is my C program repository
